@@ -9,7 +9,7 @@ class TestCalcular(unittest.TestCase):
         self.assertEqual(somar(1,2), 3)
         self.assertEqual(somar(2, 3), 5)
         self.assertEqual(somar(2, 2), 4)
-
+        self
 
     def test_dividir(self): 
         self.assertEqual(dividir(10, 2), 5)
